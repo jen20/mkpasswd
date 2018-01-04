@@ -8,7 +8,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/howeyc/gopass"
+	"github.com/havoc-io/gopass"
 	"github.com/kless/osutil/user/crypt/sha512_crypt"
 )
 
